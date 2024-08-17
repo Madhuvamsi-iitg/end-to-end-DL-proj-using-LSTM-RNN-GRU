@@ -1,1 +1,1 @@
-# end-to-end-DL-proj-using-LSTM-RNN-GRU
+Next word prediction using LSTM RNN and GRU
